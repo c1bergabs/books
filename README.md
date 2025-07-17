@@ -11,7 +11,7 @@ O cortiço
 Macunaíma  
 Poesias 📖  
 Misto-Quente  
-1984  
+1984  📖
 
 ## 🧠 Psicologia & Filosofia  
 100 minutos para entender Freud 📕  
@@ -29,7 +29,7 @@ A República
 Política  
 
 ## 🏛️ Política, História & Sociedade  
-Marxismo 📖  
+Marxismo   
 O príncipe  
 On Palestine  
 O livro da política 
@@ -57,8 +57,8 @@ Caetano
 Código-Fonte
 
 ## 🧮 Computação, Ciência de Dados & Estatística  
-Python para Data Science e Machine Learning Descomplicado 📖  
-Fundamentos de Engenharia de Dados *(ler em paralelo com outras obras)*  
+Python para Data Science e Machine Learning Descomplicado
+Fundamentos de Engenharia de Dados 📖
 SQL para Análise de Dados  
 Fundamentos da Qualidade de Dados  
 Estatística Prática Para Cientistas de Dados: 50 Conceitos Essenciais  
