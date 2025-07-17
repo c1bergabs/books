@@ -56,13 +56,13 @@ Che Guevara
 Caetano  
 Código-Fonte
 
-## 🧮 Computação, Ciência de Dados & Estatística  
-Python para Data Science e Machine Learning Descomplicado
-Fundamentos de Engenharia de Dados 📖
+## 🧮 Computação, Ciência de Dados & Estatística  
+Python para Data Science e Machine Learning Descomplicado  
+Fundamentos de Engenharia de Dados 📖  
 SQL para Análise de Dados  
 Fundamentos da Qualidade de Dados  
 Estatística Prática Para Cientistas de Dados: 50 Conceitos Essenciais  
-Introdução a Data Science: Algoritmos de Machine Learning e métodos de análise  
+Introdução a Data Science: Algoritmos de Machine Learning e métodos de análise 
 
 ## 🌌 Ciência, Tecnologia & Sociedade  
 Uma breve história do tempo  
